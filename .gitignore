@@ -1,0 +1,6 @@
+bundle/*
+!bundle/Vundle.vim
+
+**/.DS_STORE
+.netrwhist
+**/*.swp
